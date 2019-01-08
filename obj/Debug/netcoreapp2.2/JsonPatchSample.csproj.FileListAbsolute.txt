@@ -1,0 +1,14 @@
+/Users/burakcaglayan/Projects/JsonPatchSample/bin/Debug/netcoreapp2.2/JsonPatchSample.deps.json
+/Users/burakcaglayan/Projects/JsonPatchSample/bin/Debug/netcoreapp2.2/JsonPatchSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/JsonPatchSample/bin/Debug/netcoreapp2.2/JsonPatchSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/JsonPatchSample/bin/Debug/netcoreapp2.2/JsonPatchSample.dll
+/Users/burakcaglayan/Projects/JsonPatchSample/bin/Debug/netcoreapp2.2/JsonPatchSample.pdb
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.RazorAssemblyInfo.cache
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.RazorAssemblyInfo.cs
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.RazorTargetAssemblyInfo.cache
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.dll
+/Users/burakcaglayan/Projects/JsonPatchSample/obj/Debug/netcoreapp2.2/JsonPatchSample.pdb
